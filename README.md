@@ -23,6 +23,10 @@ based on group membership.
 
 ## Data sources
 
+* Minneapolis OpenData has [on-sale](http://opendata.minneapolismn.gov/datasets/8c97cfb0700b4c8b929459dc5744efc3_0) and [off-sale license data](http://opendata.minneapolismn.gov/datasets/a0448b7b87f04899822478467f6830db_0)
+* [Minnesota Craft Brewers Guild](http://www.mncraftbrew.org/) has a [set of markers](http://www.mncraftbrew.org/wp-content/plugins/store-locator/sl-xml.php)
+* St. Paul doesn't have data available online; email sent to request
+
 ## Web services
 
 Mostly-reliant on Google APIs (routing), but may make use of OSM+Leaflet
