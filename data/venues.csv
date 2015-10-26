@@ -1,4 +1,4 @@
-X,Y,Name,Address 1,Address 2,City,State,ZIP,Website
+LONGITUDE,LATITUDE,Name,Address 1,Address 2,City,State,ZIP,Website
 -93.28888028,44.9733473,Sisyphus Brewing,712 Ontario Ave,Suite 100,Minneapolis,MN,,http://www.sisyphusbrewing.com/
 -93.28850892,44.94889873,Lynlake Brewery,2934 Lyndale Ave S,,Minneapolis,MN,,http://www.lynlakebrewery.com/
 -93.28133402,44.99987253,Boom Island Brewing,2014 Washington Ave N,Suite 300,Minneapolis,MN,,http://boomislandbrewing.com/
