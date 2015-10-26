@@ -1,26 +1,26 @@
-X,Y,Name,Address 1,Address 2,City,State,ZIP,WGS_X,WGS_Y,Website
--93.24669246,44.99909078,612Brew,945 Broadway St NE,,Minneapolis,MN,,-10380174.32,5621378.35,http://www.612brew.com/
-,,Bad Weather Brewery,414 7TH ST W ,,St. Paul,MN,55102-2733,,,http://www.badweatherbrewery.com/
-,,Bang Brewing Company,2320 CAPP ROAD ,,St. Paul,MN,55114,,,http://bangbrewing.com/
--93.24506438,45.00094775,Bauhaus Brew Labs,1315 Tyler St NE,,Minneapolis,MN,,-10379993.09,5621670.692,http://bauhausbrewlabs.com/
--93.28133402,44.99987253,Boom Island Brewing,2014 Washington Ave N,#300,Minneapolis,MN,,-10384030.6,5621501.418,http://boomislandbrewing.com/
-,,Como Dockside,1360 LEXINGTON PKWY N ,,St. Paul,MN,55103-1060,,,http://www.comodockside.com/
--93.26639125,45.00111671,Dangerous Man,1300 2nd St NE,,Minneapolis,MN,,-10382367.18,5621697.291,http://dangerousmanbrewing.com/
--93.25314358,44.9749704,Day Block Brewing,1105 Washington Ave S,,Minneapolis,MN,,-10380892.46,5617581.949,https://www.dayblockbrewing.com/
--93.23434893,44.94501376,Du Nord Craft Spirits,2610 32nd St E,,Minneapolis,MN,,-10378800.25,5612869.179,http://dunordcraftspirits.com/
--93.26075482,44.94930973,Eastlake Craft Brewery,920 Lake St E,#107,Minneapolis,MN,,-10381739.74,5613544.867,http://www.eastlakemgm.com/
--93.24787267,45.01355918,Fair State Brewing Cooperative,2506 Central Ave NE,,Minneapolis,MN,,-10380305.7,5623656.355,https://fairstate.coop/
--93.27912321,44.98493736,Fulton,414 6th Ave N,,Minneapolis,MN,,-10383784.5,5619150.493,http://fultonbeer.com/
-,,Great Waters,426 ST PETER ST ,,St. Paul,MN,55102-1105,,,http://www.restaurantstpaulmn.com/menu/
--93.23389439,44.94710153,Harriet Brewing,3036 Minnehaha Ave,,Minneapolis,MN,,-10378749.65,5613197.545,http://harrietbrewing.com/
--93.21295046,44.99193296,Insight Brewing,2821 Hennepin Ave E,,Minneapolis,MN,,-10376418.18,5620251.586,http://www.insightbrewing.com/
--93.28850892,44.94889873,Lynlake Brewery,2934 Lyndale Ave S,,Minneapolis,MN,,-10384829.31,5613480.222,http://www.lynlakebrewery.com/
--93.23257779,44.93859817,Northbound Smokehouse,2716 38th St E,,Minneapolis,MN,,-10378603.08,5611860.199,http://northboundbrewpub.com/
--93.22108965,44.99819937,Northgate Brewing,783 Harding St NE,#100,Minneapolis,MN,,-10377324.23,5621238.019,http://www.northgatebrew.com/
--93.28888028,44.9733473,Sisyphus Brewing,712 Ontario Ave,#100,Minneapolis,MN,,-10384870.65,5617326.54,http://www.sisyphusbrewing.com/
--93.24409551,45.00448325,Sociable Cider Werks,1500 Fillmore St NE,#100,Minneapolis,MN,,-10379885.23,5622227.31,http://sociablecider.com/
--93.20940833,44.97286474,Surly Brewing,520 Malcolm Ave SE,,Minneapolis,MN,,-10376023.87,5617250.606,http://surlybrewing.com/
-,,Tin Whiskers,125 9TH ST E UNIT 127,,St. Paul,MN,55101-2246,,,http://twbrewing.com/
--93.2477956,44.97339892,Town Hall Brewery,1430 Washington Ave S,,Minneapolis,MN,,-10380297.12,5617334.663,http://www.townhallbrewery.com/
-,,Urban Growler,2325 ENDICOTT ST UNIT 11,,St. Paul,MN,55114,,,http://www.urbangrowlerbrewing.com/
-,,Wabasha Brewing,429 WABASHA ST S ,,St. Paul,MN,55107-1126,,,http://www.wabashabrewing.com/
+X,Y,Name,Address 1,Address 2,City,State,ZIP,Website
+-93.28888028,44.9733473,Sisyphus Brewing,712 Ontario Ave,#100,Minneapolis,MN,,http://www.sisyphusbrewing.com/
+-93.28850892,44.94889873,Lynlake Brewery,2934 Lyndale Ave S,,Minneapolis,MN,,http://www.lynlakebrewery.com/
+-93.28133402,44.99987253,Boom Island Brewing,2014 Washington Ave N,#300,Minneapolis,MN,,http://boomislandbrewing.com/
+-93.27912321,44.98493736,Fulton,414 6th Ave N,,Minneapolis,MN,,http://fultonbeer.com/
+-93.26639125,45.00111671,Dangerous Man,1300 2nd St NE,,Minneapolis,MN,,http://dangerousmanbrewing.com/
+-93.26075482,44.94930973,Eastlake Craft Brewery,920 Lake St E,#107,Minneapolis,MN,,http://www.eastlakemgm.com/
+-93.25314358,44.9749704,Day Block Brewing,1105 Washington Ave S,,Minneapolis,MN,,https://www.dayblockbrewing.com/
+-93.24787267,45.01355918,Fair State Brewing Cooperative,2506 Central Ave NE,,Minneapolis,MN,,https://fairstate.coop/
+-93.2477956,44.97339892,Town Hall Brewery,1430 Washington Ave S,,Minneapolis,MN,,http://www.townhallbrewery.com/
+-93.24669246,44.99909078,612Brew,945 Broadway St NE,,Minneapolis,MN,,http://www.612brew.com/
+-93.24506438,45.00094775,Bauhaus Brew Labs,1315 Tyler St NE,,Minneapolis,MN,,http://bauhausbrewlabs.com/
+-93.24409551,45.00448325,Sociable Cider Werks,1500 Fillmore St NE,#100,Minneapolis,MN,,http://sociablecider.com/
+-93.23434893,44.94501376,Du Nord Craft Spirits,2610 32nd St E,,Minneapolis,MN,,http://dunordcraftspirits.com/
+-93.23389439,44.94710153,Harriet Brewing,3036 Minnehaha Ave,,Minneapolis,MN,,http://harrietbrewing.com/
+-93.23257779,44.93859817,Northbound Smokehouse,2716 38th St E,,Minneapolis,MN,,http://northboundbrewpub.com/
+-93.22108965,44.99819937,Northgate Brewing,783 Harding St NE,#100,Minneapolis,MN,,http://www.northgatebrew.com/
+-93.21295046,44.99193296,Insight Brewing,2821 Hennepin Ave E,,Minneapolis,MN,,http://www.insightbrewing.com/
+-93.20940833,44.97286474,Surly Brewing,520 Malcolm Ave SE,,Minneapolis,MN,,http://surlybrewing.com/
+-93.1101995,44.9389351,Bad Weather Brewery,414 7TH ST W ,,St. Paul,MN,55102-2733,http://www.badweatherbrewery.com/
+-93.1925768,44.9704882,Bang Brewing Company,2320 CAPP ROAD ,,St. Paul,MN,55114,http://bangbrewing.com/
+-93.1461962,44.9819887,Como Dockside,1360 LEXINGTON PKWY N ,,St. Paul,MN,55103-1060,http://www.comodockside.com/
+-93.0968155,44.9467327,Great Waters,426 ST PETER ST ,,St. Paul,MN,55102-1105,http://www.restaurantstpaulmn.com/menu/
+-93.0891516,44.952861,Tin Whiskers,125 9TH ST E UNIT 127,,St. Paul,MN,55101-2246,http://twbrewing.com/
+-93.1925645,44.9701614,Urban Growler,2325 ENDICOTT ST UNIT 11,,St. Paul,MN,55114,http://www.urbangrowlerbrewing.com/
+93.0848121,44.9329398,Wabasha Brewing,429 WABASHA ST S ,,St. Paul,MN,55107-1126,http://www.wabashabrewing.com/
