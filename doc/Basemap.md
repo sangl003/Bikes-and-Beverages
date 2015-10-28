@@ -94,4 +94,8 @@ function initMap() {
 * Strip out basic administrative things
 * Strip out most business-like things; we know the businesses we want to display
 * Limiting the extent and zoom levels (consider small screens)
-* Ensuring choices are colorblind-friendly and otherwise accessible
+* Ensuring choices are colorblind-friendly and otherwise accessible. A palette idea from [ColorBrewer 2.0](http://colorbrewer2.org/):
+  * `#a6cee3`
+  * `#1f78b4`
+  * `#b2df8a`
+  * `#33a02c`
