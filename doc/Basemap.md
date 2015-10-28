@@ -6,7 +6,8 @@ We should style a basemap based on week 8 exercises using Google Maps.
 
 * [features that can be styled](https://developers.google.com/maps/documentation/javascript/reference?hl=en#MapTypeStyleFeatureType)
 * [map options](https://developers.google.com/maps/documentation/javascript/reference?csw=1#MapOptions)
-* 
+* [BicyclingLayer](https://developers.google.com/maps/documentation/javascript/examples/layer-bicycling)
+
 ## Consider
 
 * Emphasize known bike routes
