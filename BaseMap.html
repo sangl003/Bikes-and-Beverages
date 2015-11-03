@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #google-map { height: 100%; width:100%; margin: 0; padding: 0; }
+    </style>
+  </head>
+  <body>
+    <div id="google-map"></div>
+    <script type="text/javascript">
+var google_map;
+function initGoogleMap() {
+  var customMapType = new google.maps.StyledMapType([
+  {
+    "featureType": "road.local"  },{
+    "featureType": "water",
+    "elementType": "labels.text"  },{
+    "featureType": "poi.attraction",
+    "stylers": [
+      { "visibility": "on" },
+      { "weight": 6 }
+    ]
+  },{
+    "featureType": "landscape.man_made",
+    "stylers": [
+      { "weight": 0.1 },
+      { "hue": "#ff0022" },
+      { "color": "#f9ffff" }
+    ]
+  },{
+    "featureType": "poi.school",
+    "stylers": [
+      { "visibility": "on" },
+      { "hue": "#22ff00" }
+    ]
+  }
+], {
+      name: 'Custom Style'
+  });
+  var customMapTypeId = 'custom_style';
+  var map = new google.maps.Map(document.getElementById('google-map'), {
+    zoom: 13,
+    center: {lat: 44.947704, lng:  -93.202313},  // Brooklyn.
+    mapTypeControlOptions: {
+      mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
+    }
+  });
+  map.mapTypes.set(customMapTypeId, customMapType);
+  map.setMapTypeId(customMapTypeId);
+  
+  var bikeLayer = new google.maps.BicyclingLayer();
+  bikeLayer.setMap(map);
+}
+    </script>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoE3QwsVadgmw0_XaZ-z73oAniNltqo50&callback=initGoogleMap">
+    </script>
+  </body>
+</html>
